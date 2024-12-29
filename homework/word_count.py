@@ -8,7 +8,7 @@ import os.path
 from itertools import groupby
 import string
 
-#
+# Revisado
 # Escriba la función load_input que recive como parámetro un folder y retorna
 # una lista de tuplas donde el primer elemento de cada tupla es el nombre del
 # archivo y el segundo es una línea del archivo. La función convierte a tuplas
